@@ -1,0 +1,27 @@
+.centered {
+    margin: auto;
+    width: 70%;
+    min-width: 200px;
+    max-width: 1000px;
+}
+
+.padded {
+    padding: 15px;
+}
+
+.spaced {
+    padding-right: 15px;
+}
+
+span.email b {
+	display: none;
+}
+
+body {
+    background-color: bisque;
+}
+
+hr {
+    width: 50%;
+    border-color: bisque;
+}
